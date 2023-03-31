@@ -3,7 +3,7 @@
 Name:		gnome-shell-extension-appindicator
 Summary:	AppIndicator/KStatusNotifierItem support for GNOME Shell
 Version:	53
-Release:	1
+Release:	2
 License:	GPLv2
 Group:		Graphical desktop/GNOME
 URL:		https://github.com/ubuntu/gnome-shell-extension-appindicator
