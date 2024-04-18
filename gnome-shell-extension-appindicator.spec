@@ -11,6 +11,7 @@ Source0:	https://github.com/ubuntu/gnome-shell-extension-appindicator/archive/v%
 BuildArch:	noarch
 BuildRequires: jq
 BuildRequires: meson
+BuildRequires: gettext
 BuildRequires: glib2.0-common
 BuildRequires: pkgconfig(glib-2.0)
 BuildRequires: pkgconfig(appindicator3-0.1)
