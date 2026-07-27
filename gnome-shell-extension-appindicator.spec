@@ -17,7 +17,7 @@ BuildRequires: glib2.0-common
 BuildRequires: pkgconfig(glib-2.0)
 BuildRequires: pkgconfig(appindicator3-0.1)
 Requires:	gnome-shell
-Requires:	%{_lib}appindicator3_1
+Requires:	%{_lib}appindicator
 
 # gnome-shell-extension-appindicator version >= 40 now also includes
 # support for legacy X11 tray icons and the topicons(-plus) extensions
